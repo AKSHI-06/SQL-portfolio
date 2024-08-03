@@ -1,10 +1,12 @@
-# SQL-portfolio ![image](https://github.com/user-attachments/assets/63a86d26-4e52-4ac8-8d27-6e2a728c0405)
+# SQL-portfolio 
 
 Hello, and thanks for stopping by! This repository contains examples of SQL queries and analyses I've developed for solo projects. It showcases my work through SQL, machine learning, and other data analytics courses. Explore practical examples and detailed reports that demonstrate my skills in data manipulation, metric calculation, and visualization.
 
 ## Projects
 
 ### Course Engagement Analysis
+![image](https://github.com/user-attachments/assets/31a59568-3824-42fd-951d-9a08ff767c31)
+
 
 **Objective**: Analyze student engagement data from the 365 platform to understand free-to-paid conversion rates and the durations between key engagement milestones.
 
