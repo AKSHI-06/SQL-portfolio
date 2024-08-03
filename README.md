@@ -1,4 +1,6 @@
-# SQL-portfolio ![image](https://github.com/user-attachments/assets/2d791863-dc6c-4593-9d78-98def9d642ae)
+# SQL-portfolio ![image](https://github.com/user-attachments/assets/b2d75d03-9281-41fb-98fb-338a73457930)
+
+
 
 Hello, and thanks for stopping by! This repository contains examples of SQL queries and analyses I've developed for solo projects. It showcases my work through SQL, machine learning, and other data analytics courses. Explore practical examples and detailed reports that demonstrate my skills in data manipulation, metric calculation, and visualization.
 
