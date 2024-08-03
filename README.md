@@ -1,7 +1,4 @@
-# SQL-portfolio ![image](https://github.com/user-attachments/assets/6ea39a79-3408-4f9b-8101-7a0a5c70d456)
-
-
-
+# SQL-portfolio ![image](https://github.com/user-attachments/assets/63a86d26-4e52-4ac8-8d27-6e2a728c0405)
 
 Hello, and thanks for stopping by! This repository contains examples of SQL queries and analyses I've developed for solo projects. It showcases my work through SQL, machine learning, and other data analytics courses. Explore practical examples and detailed reports that demonstrate my skills in data manipulation, metric calculation, and visualization.
 
@@ -13,8 +10,7 @@ Hello, and thanks for stopping by! This repository contains examples of SQL quer
 
 **Description**: This project examines student interactions on the 365 platform using data on student registrations, lecture engagements, and purchase history. The analysis aims to derive insights into user behavior and conversion patterns.
 
-![image](https://github.com/user-attachments/assets/e201dbd8-4030-47bb-9f88-dc81a80b978b)
-
+![image](https://github.com/user-attachments/assets/34936a54-5e56-4b14-9b97-7aaa8eab1a14)
 
 Key Metrics Calculated:
 * Free-to-Paid Conversion Rate: Percentage of students who watched a lecture and later purchased a subscription.
