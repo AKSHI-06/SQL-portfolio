@@ -9,6 +9,9 @@ Hello, and thanks for stopping by! This repository contains examples of SQL quer
 
 **Description**: This project examines student interactions on the 365 platform using data on student registrations, lecture engagements, and purchase history. The analysis aims to derive insights into user behavior and conversion patterns.
 
+![image](https://github.com/user-attachments/assets/e201dbd8-4030-47bb-9f88-dc81a80b978b)
+
+
 Key Metrics Calculated:
 * Free-to-Paid Conversion Rate: Percentage of students who watched a lecture and later purchased a subscription.
 * Average Duration Between Registration and First-Time Engagement: Average days between registration and the first lecture.
