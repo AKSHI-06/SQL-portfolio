@@ -1,5 +1,5 @@
 # SQL-portfolio
-A collection of SQL projects showcasing data analysis, metric calculations, and visualization. Includes practical examples and detailed reports.
+Hello, and thanks for stopping by! This repository contains examples of SQL queries and analyses I've developed for solo projects. It showcases my work through SQL, machine learning, and other data analytics courses. Explore practical examples and detailed reports that demonstrate my skills in data manipulation, metric calculation, and visualization.
 
 ## Projects
 
