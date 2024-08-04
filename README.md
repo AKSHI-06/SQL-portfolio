@@ -5,7 +5,8 @@ Hello, and thanks for stopping by! This repository contains examples of SQL quer
 ## Projects
 
 ### Course Engagement Analysis
-![image](https://github.com/user-attachments/assets/31a59568-3824-42fd-951d-9a08ff767c31)
+![image](https://github.com/user-attachments/assets/19251d61-e87f-47ba-b857-50f4c66a0f0a)
+
 
 
 **Objective**: Analyze student engagement data from the 365 platform to understand free-to-paid conversion rates and the durations between key engagement milestones.
