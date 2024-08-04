@@ -1,6 +1,6 @@
 # SQL-portfolio 
 
-Hello, and thanks for stopping by! This repository contains examples of SQL queries and analyses I've developed for solo projects. It showcases my work through SQL, machine learning, and other data analytics courses. Explore practical examples and detailed reports that demonstrate my skills in data manipulation, metric calculation, and visualization.
+Hello, and thanks for stopping by! This repository contains examples of SQL queries and analysis I've developed for solo projects. It showcases my work through SQL, machine learning, and other data analytics courses. Explore practical examples and detailed reports that demonstrate my skills in data manipulation, metric calculation, and visualization.
 
 ## Projects
 
